@@ -1,0 +1,9 @@
+com.devops.tera.controller.TestLoginController#testInvalidCredentials()V
+false
+e71ccc7a1c25c0e4bb49d0afdc940962
+==
+!unknownMethod! !unknownMethod!
+loadLoginPage com.devops.tera.controller.LoginController#loadLoginPage(Lcom/devops/tera/model/UserBean;)LModelAndView;
+login com.devops.tera.controller.LoginController#login(Lcom/devops/tera/model/UserBean;)LModelAndView;
+setLoginId com.devops.tera.model.UserBean#setLoginId(Ljava/lang/String;)V
+setPassword com.devops.tera.model.UserBean#setPassword(Ljava/lang/String;)V
